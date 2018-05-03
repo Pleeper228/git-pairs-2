@@ -13,7 +13,7 @@
 
 4) Brevon makes changes and commits
 
-5) Brandon forks repo and makes app changes and submits pull request
+5) Brandon merges from upstream repo and makes app changes and submits pull request
     Brevon merges pull request with master
 
 6) Brevon makes changes and commits
